@@ -7,16 +7,16 @@ Prerequisites
 
 Installation
 		1. Clone the repository:
- 					git clone <your-repo-url>
-					cd <your-project-directory>
+ 			git clone <your-repo-url>
+			cd <your-project-directory>
 		2. Install dependencies:
-					npm install
+			npm install
 		3. Create and set up the SQLite database:
-					Ensure the transaction.db file is in the project root directory. If it doesn't exist, it will be created automatically when the server starts.
+			Ensure the transaction.db file is in the project root directory. If it doesn't exist, it will be created automatically when the server starts.
 
 Running the Server
 		1. Start the server:
-					node server.js
+			node server.js
 		2. Access the API at:
-					http://localhost:4002
+			http://localhost:4002
 
